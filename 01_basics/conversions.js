@@ -16,3 +16,4 @@ console.log("2" + 2)
 
 // right clean code
 console.log(+true)
+console.log(2 === "2")
