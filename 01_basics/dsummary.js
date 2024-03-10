@@ -17,3 +17,6 @@ console.log(myobj)
 let temp = null
 console.log(typeof(temp))
 //Javascript is dyanamically typed
+
+//************************HEap memeory and stack memory *****************************
+// primitive types are stored in static memory and non primitive types are stored in heap memory
